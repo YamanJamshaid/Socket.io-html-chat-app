@@ -1,7 +1,7 @@
 ## Real-Time Chat-App with Socket.io and Node.js
 
-Chat-App is powered by Socket.IO is a web application that allows multiple users to have private and public chat.
-This app allows one-to-one chat online and it's fast and easy to use. Please note that the application code is written in Javascript ES6.
+Chat-App is powered by Socket.IO, a web application allowing multiple users to have private and public chat.
+This app allows one-to-one chat online and it's fast and easy to use. So as you know, the application code is written in Javascript ES6.
 
 
 ### Prerequisites: ###
