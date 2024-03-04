@@ -1,7 +1,7 @@
 ## Real-Time Chat-App with Socket.io and Node.js
 
-Chat-App is powered by Socket.IO is a web application that allows multiple users to have a private and public chat.
-This app allows one to one chat online and its fast and easy to use. Please note that the application code is written in Javascript ES6.
+Chat-App is powered by Socket.IO is a web application that allows multiple users to have private and public chat.
+This app allows one-to-one chat online and it's fast and easy to use. Please note that the application code is written in Javascript ES6.
 
 
 ### Prerequisites: ###
@@ -19,7 +19,7 @@ This app allows one to one chat online and its fast and easy to use. Please note
 ## Screenshot
 ![image](https://github.com/NawinKumarSharma/Chat-App/assets/126372969/175148d9-eba2-4b7d-8e3a-5f3bc44edc79)
 
-** Css will be updated soon **
+** CSS will be updated soon **
 
 ## Installation<a name="installation"></a>
 ## Running Locally
@@ -46,6 +46,9 @@ Your app should now be running on [localhost:9000](http://localhost:9000/).
 ## Contributing:
 We welcome contributions from the community! Whether you're a developer, designer, or just enthusiastic about improving this chat app, we'd love to have you on board.
 
+## Credit To:
+This project is not mine, the credit goes to the original creator.
+
 ## Issues and Feedback:
-If you encounter any bugs, issues, or have suggestions for improvements, please feel free to open an issue on this repository. Your feedback is highly valued and will help make this chat app even better.
-Having trouble with Pages? Feel free to post an issue
+If you encounter any bugs, or issues, or have suggestions for improvements, please feel free to open an issue on this repository. Your feedback is highly valued and will help make this chat app even better.
+Have trouble with Pages? Feel free to post an issue
